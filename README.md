@@ -1,8 +1,8 @@
 # Mini Sync Catalogue
 
-**A sync-ready demo catalogue of Caribbean and Canadian music — tagged by a musician, backed by data.**
+**A sync-ready demo catalogue of my Spotify top played songs — tagged by a musician, backed by data.**
 
-Built by Chloe Syriac (data analyst; steelpan & bass player) to demonstrate the full sync-catalogue workflow end to end: raw listening data → curated, DISCO-style metadata → a searchable catalogue that answers licensing briefs.
+Built by Chloe (data analyst; steelpan, bass player) to demonstrate the full sync-catalogue workflow end to end: raw listening data → curated, DISCO-style metadata → a searchable catalogue that answers licensing briefs.
 
 > **Honesty note:** This is a *demo* catalogue built to demonstrate workflow and metadata craft. I do not hold the rights to any of these tracks, and nothing here is offered for actual licensing.
 
@@ -64,9 +64,7 @@ Databricks (Unity Catalog, Delta, Spark SQL) · Python / PySpark (matcher widget
 
 ## What I'd build next
 
-- Tempo/energy audio features to sharpen sports and ad briefs
 - A `sounds_like` similarity layer (brief: "something like X, but Caribbean")
-- One-sheet PDF export per shortlist, DISCO-style
 
 ## Privacy
 
