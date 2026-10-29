@@ -45,7 +45,13 @@ Each brief was first simulated from the raw tags, then run for real in Databrick
 | Late-night drive | mood smooth · theme nightlife | **Lyrikal — "Loner"** |
 | Caribbean tourism board ad | mood joyful · theme celebration · best_for Caribbean tourism ad | **Bad Bunny — "Baile Inolvidable"** (8 pts), then Tano "Jamtown" |
 
-*[screenshots of each run go in /images]*
+*<img width="1505" height="594" alt="streetwear" src="https://github.com/user-attachments/assets/1b34efbe-29ab-44fa-821a-457d8d0dc9d1" />
+<img width="1504" height="614" alt="late-night-drive" src="https://github.com/user-attachments/assets/37c5d42d-d89a-4d1a-998b-e9c826f94ec4" />
+<img width="1520" height="588" alt="meet-cute" src="https://github.com/user-attachments/assets/5c4366b3-11b1-414b-8569-b5f032618cf3" />
+<img width="1498" height="615" alt="villain-entrance" src="https://github.com/user-attachments/assets/b583a92e-c2f8-4f6d-b8e5-88618a42faf8" />
+<img width="1488" height="578" alt="caribbean-tourism" src="https://github.com/user-attachments/assets/d0ea6933-8382-4501-a468-94379d4aad51" />
+<img width="1497" height="613" alt="empowerment" src="https://github.com/user-attachments/assets/f3bd1d92-44d1-4199-8176-f3f5fdffcbbb" />
+*
 
 ### What the test runs caught (audit notes)
 
