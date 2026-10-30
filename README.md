@@ -39,8 +39,8 @@ Each brief was first simulated from the raw tags, then run for real in Databrick
 | Brief | Widget settings | Top result |
 |---|---|---|
 | Streetwear campaign | mood swaggering · theme confidence | **Armanii — "Dunce Barbie"** (5 pts), then Armanii "Charge Up" and Aitch "Baby" |
-| Villain entrance | mood aggressive · theme confidence | **King Von — "Took Her To The O"** (5 pts) |
-| Empowerment anthem ad | mood confident · theme empowerment | **Kendrick Lamar — "Money Trees"** ("Not Like Us" also placed #4) |
+| Villain origin story | mood aggressive · theme confidence | **King Von — "Took Her To The O"** (5 pts) |
+| Empowerment anthems | mood confident · theme empowerment | **Kendrick Lamar — "Money Trees"** ("Not Like Us" also placed #4) |
 | Rom-com meet-cute | mood playful · theme love · best_for meet-cute scenes | **New Edition — "Mr. Telephone Man"** (8 pts — the highest score of the test set) |
 | Late-night drive | mood smooth · theme nightlife | **Lyrikal — "Loner"** |
 | Caribbean tourism board ad | mood joyful · theme celebration · best_for Caribbean tourism ad | **Bad Bunny — "Baile Inolvidable"** (8 pts), then Tano "Jamtown" |
